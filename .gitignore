@@ -195,4 +195,4 @@ cython_debug/
 
 # exclude the csv files : 
 
-*.text
+*.txt
