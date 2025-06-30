@@ -197,3 +197,7 @@ cython_debug/
 
 *.txt
 *.json
+
+#excluding the .env file :
+*env
+
